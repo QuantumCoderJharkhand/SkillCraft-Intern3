@@ -1,5 +1,7 @@
 # Responsive Landing Page 🌐
 
+This is  a **Responsive Landing Page** with an interactive navigation menu.
+
 ## 🚀 Features
 - Fixed navigation bar (always visible)
 - Navbar changes background color on scroll
@@ -7,6 +9,7 @@
 - Fully responsive design (desktop, tablet & mobile)
 - Mobile hamburger menu toggle
 - Modern UI with smooth transitions
+
 
 ## 📂 Project Structure
 index.html # Main HTML file
