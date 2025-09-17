@@ -1,8 +1,8 @@
-# Responsive Landing Page 🌐
+# Responsive Landing Page 
 
 This is  a **Responsive Landing Page** with an interactive navigation menu.
 
-## 🚀 Features
+## Features
 - Fixed navigation bar (always visible)
 - Navbar changes background color on scroll
 - Hover effect on navigation links
@@ -11,7 +11,7 @@ This is  a **Responsive Landing Page** with an interactive navigation menu.
 - Modern UI with smooth transitions
 
 
-## 📂 Project Structure
+## Project Structure
 index.html # Main HTML file
 style.css # Stylesheet
 script.js # JavaScript functionality
